@@ -17,7 +17,6 @@ echo the value of the x is - ${x}
 echo Env Variable - a_env - ${a_env}
 
 #rhs variable declaration and that are called as the special variables
-
 echo first variable - $1
 echo second variable - $2
 echo all vaues - $*
