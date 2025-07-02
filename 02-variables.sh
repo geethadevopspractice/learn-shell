@@ -12,4 +12,4 @@ echo the value of the x is - ${x}
 #like LHS SCRIPT RHS
 
 # shellcheck disable=SC2154
-echo Env Variable - a_evn - ${a_env}
+echo Env Variable - a_env - ${a_env}
