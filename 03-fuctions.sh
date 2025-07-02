@@ -5,8 +5,6 @@
 
  #commands
 
- }
-
  #example
  sample() {
    echo sample function
