@@ -13,3 +13,5 @@
  #and how to call this functions is by only by the name of the function
 
  sample
+ source common.sh
+ demo
